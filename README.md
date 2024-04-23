@@ -6,17 +6,20 @@ Hi, I'm Lucas de Almeida Bueno. I'm 21 years old and live in Goiânia-GO, Brazil
 ## Skills and Technologies
 I have experience with various technologies and programming languages, including:
 
-- **JavaScript**
-- **HTML & CSS**
-- **Java**
-- **C**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+
+## Github stats
+![Buenolas's GitHub stats](https://github-readme-stats.vercel.app/api?username=buenolas&show_icons=true&theme=github_dark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=buenolas&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 ## How to Get in Touch
-If you'd like to get in touch or learn more about my projects, feel free to visit my social media links:
+If you'd like to get in touch or learn more about my projects, feel free to visit my LinkedIn:
 
-- [GitHub](https://www.github.com/buenolas)
-- [LinkedIn](https://www.linkedin.com/in/buenolas/)
-- [Resume](https://drive.google.com/drive/folders/1QbFXg0m6F_I1Oz9EFfVJmrqJ42eabM56?usp=sharing)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/buenolas/)
 
-## Acknowledgements
-Thanks for visiting my profile! If you have any questions or suggestions, feel free to contact me.
