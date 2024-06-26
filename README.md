@@ -12,10 +12,6 @@ I have experience with various technologies and programming languages, including
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
-
-## Github stats
-![Buenolas's GitHub stats](https://github-readme-stats.vercel.app/api?username=buenolas&show_icons=true&theme=github_dark)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=buenolas&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 ## How to Get in Touch
